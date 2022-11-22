@@ -1,0 +1,1 @@
+export { CakePage } from "./CakePage";
